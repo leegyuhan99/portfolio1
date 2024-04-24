@@ -1,0 +1,12 @@
+.link {
+  text-align: center;
+  font-size: large;
+}
+.center {
+  text-align: left;
+}
+.center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
